@@ -6,6 +6,8 @@ How it works The script is controlled mostly from HTML and CSS. You specify laye
 # Image Source
 Image Source The images i have added on this project, that is the link from unsplash.com ,you just have to paste the link in url. And more interesting thing in that is ,whenever you reload the page the images will changes everytime by set category.
 
-Technologies Used HTML CSS
+# Technologies Used 
+HTML 
+CSS
 # Live Demo Link 
 https://prakash842277.github.io/HTML-CSS-Mini-Project/
